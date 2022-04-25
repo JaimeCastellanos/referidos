@@ -7,7 +7,6 @@ import Invita from "./pages/Invita";
 import PagePortabilidad from "./pages/PagePortabilidad";
 
 function App() {
-  const gigas = Math.floor(Math.random() * 11);
   return (
     <BrowserRouter>
       <Routes>
