@@ -1,0 +1,56 @@
+{
+    "socialNetworks":[
+        {
+            "name": "whatsapp",
+            "image": "/src/assets/icons/WhatsApp.webp"
+        },
+        {
+            "name": "facebook",
+            "image": "/src/assets/icons/facebook.webp"
+        },
+        {
+            "name": "messenger",
+            "image": "/src/assets/icons/Facebook-Messenger-logo.webp"
+        }, 
+        {
+            "name": "waze",
+            "image": "/src/assets/icons/Waze.webp"
+        }, 
+        {
+            "name": "twitter",
+            "image": "/src/assets/icons/Twitter.webp"
+        }
+    ],
+    "plans": [
+        {
+            "id": 1,
+            "bonoGb": 2,
+            "vigenciaBono": 7,
+            "datos": 1.7,
+            "dobleDatos": 3.5,
+            "vigenciaDatos": 7,
+            "minutos": 15,
+            "precio": "$7.000"
+        },
+        {
+            "id": 2,
+            "bonoGb": 3,
+            "vigenciaBono": 15,
+            "datos": 7.5,
+            "dobleDatos": 15,
+            "vigenciaDatos": 30,
+            "minutos": 200,
+            "precio": "$25.000"
+        },
+        {
+            "id": 3,
+            "bonoGb": 3,
+            "vigenciaBono": 15,
+            "datos": 13.5,
+            "dobleDatos": 27,
+            "vigenciaDatos": 30,
+            "minutos": 350,
+            "precio": "$40.000"
+        }
+    ]
+}
